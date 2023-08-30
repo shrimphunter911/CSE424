@@ -1,6 +1,6 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA. https://www.overleaf.com/read/pyjrxfysvtdd
 
-Unlisted YouTube video: https://youtu.be/
+Unlisted YouTube video: https://youtu.be/QrLJvdE-OMg
 
 Paper title: Auto Encoder for Real World Document Denoising
 
